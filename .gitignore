@@ -1,0 +1,17 @@
+*.log
+
+*.pc
+
+Makefile
+
+*.cmake
+
+/googletest/
+
+/CMakeFiles/
+
+CMakeCache.txt
+
+.DS_Store
+
+*.swp
